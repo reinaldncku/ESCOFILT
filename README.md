@@ -8,7 +8,7 @@ AKA ESCOFILT. This is the code implementation of [our paper](https://aclantholog
 ## Preparatory Codes
 
 * **params.py** - The values for various parameters/hyperparameters can be modified in this file.
-* **paths_args.py** - The paths (e.g. path of the dataset) can also be adjusted here.
+* **paths_args.py** - The paths (e.g., path of the dataset) can also be adjusted here.
 * **general_codes.py** - Has the function bodies for the training and evaluation phases.
 * **recsys_lib20.py** - Contains the functions for obtaining the extractive summary embeddings, the actual collaborative filtering, and other utilities.
 
