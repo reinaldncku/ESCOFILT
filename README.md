@@ -15,8 +15,5 @@ AKA ESCOFILT. This is the code implementation of [our paper](https://aclantholog
 ## Main Codes
 
 * **[0] Prepare ExSumm Emb.ipynb** - Run this notebook to obtain and save extractive summary embeddings.
-* **[1] Run AceCF (Train-Pred).ipynb** - Run this notebook to train and evaluate AceCF.
+* **[1] Run Train-Pred.ipynb** - Run this notebook to train and evaluate ESCOFILT.
 
-
-## Citation
-[to follow]
