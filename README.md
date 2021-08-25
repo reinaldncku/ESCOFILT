@@ -17,3 +17,6 @@ AKA ESCOFILT. This is the code implementation of [our paper](https://aclantholog
 * **[0] Prepare ExSumm Emb.ipynb** - Run this notebook to obtain and save extractive summary embeddings.
 * **[1] Run Train-Pred.ipynb** - Run this notebook to train and evaluate ESCOFILT.
 
+## Other Folders and Files
+* **summarizer** - This is a modified version of Miller's [BERT Extractive Summarizer](https://github.com/dmmiller612/bert-extractive-summarizer/tree/master/summarizer).
+* **shared_datasets** - Contains the [Amazon dataset/s](https://jmcauley.ucsd.edu/data/amazon/) that has already been converted to train-test-validation split files (in CSV format).
