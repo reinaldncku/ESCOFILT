@@ -8,8 +8,8 @@ RATIOS = [0.4, 0.3]
 
 
 ###########
-# Adjust these values for [1] Run AceCF (Train-Pred).ipynb
-DOMAIN = "auto"
+# Adjust these values for [1] Run Train-Pred.ipynb
+DOMAIN = "patio"
 ITEM_RATIO = 0.4
 USER_RATIO = 0.4
 REDUCE_DIM = 32
