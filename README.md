@@ -2,7 +2,7 @@
 
 AKA ESCOFILT. This is the code implementation of [our paper](https://aclanthology.org/2021.acl-long.232/) accepted at the [ACL 2021](https://2021.aclweb.org). If you are going to use our code and/or refer to our paper, please cite us. Thanks!
 
-> Pugoy, R.A., & Kao, H.Y. (2021). Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 2981–2990). Association for Computational Linguistics.
+> Pugoy, R.A. & Kao, H.Y. (2021). Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 2981–2990). Association for Computational Linguistics.
 
 
 ## Preparatory Codes
